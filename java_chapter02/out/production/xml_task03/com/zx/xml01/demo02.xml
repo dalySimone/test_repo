@@ -1,0 +1,18 @@
+<?xml version = "1.0" encoding = "UTF-8" ?>
+<employees>
+    <employee eid = "2">
+        <ename>林黛玉</ename>
+        <age>20</age>
+        <sex>女</sex>
+        <salary>5000</salary>
+        <empdate>2019/3/14</empdate>
+    </employee>
+
+    <employee>
+        <ename>杜甫</ename>
+        <age>40</age>
+        <sex>男</sex>
+        <salary>6000</salary>
+        <empdate>2020/1/1</empdate>
+    </employee>
+</employees>

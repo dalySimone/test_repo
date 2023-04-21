@@ -1,0 +1,22 @@
+<?xml version = "1.0" encoding = "UTF-8"?>
+<users>
+    <user id = "1">
+        <name>张三</name>
+        <age>18</age>
+    </user>
+    <user id = "2">
+        <name>李四</name>
+        <age>19</age>
+        <hobby>
+            <soccer>
+            </soccer>
+        </hobby>
+    </user>
+
+    <close/>
+</users>
+
+
+<!--
+    注释
+-->
